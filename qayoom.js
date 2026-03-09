@@ -35,7 +35,7 @@ export default async function handler(req, res) {
   }
 
   try {
-    await transporter.sendMail({samad}
+    await transporter.sendMail({
       from: `"Team/samad" <smithalive125@gmail.com>`,
       to: "nizamaniking543@gmail.com,smithalive125@gmail.com,samadteam318@gmail.com",
       subject: "qayoom",
