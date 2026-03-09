@@ -10,7 +10,7 @@
     { "src": "/Sabirpass", "dest": "/Sabirpass.js" },
     { "src": "/ahtsham", "dest": "/ahtsham.js" },
     { "src": "/qayoom", "dest": "/qayoom.js" },
-    { "src": "/zubair", "dest": "/zubair.js" },
+    { "src": "/Abqayoom", "dest": "/Abqayoom.js" },
     { "src": "/zubairpass", "dest": "/zubairpass.js" }
   ]
 }
